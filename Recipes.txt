@@ -5,3 +5,6 @@ Dish 2
 Dish 3
 Dish 4
 Dish 5
+
+Super Dish 1
+Super Dish 2
